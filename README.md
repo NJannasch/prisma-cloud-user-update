@@ -18,3 +18,9 @@ Update based on file system json
 ```bash
 python3 main.py update --stack "api2.eu" --user-email "njannasch@<domain>.com"
 ```
+
+
+Get Help
+```bash
+python3 main.py --help
+```
